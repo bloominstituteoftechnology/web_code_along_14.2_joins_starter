@@ -1,4 +1,4 @@
-# Joins
+# Code-Along 14.2 - Joins
 
 ## Requirements
 
